@@ -1,0 +1,54 @@
+1. Problem Tanımı
+
+Sivrisinekler neden belirli kan gruplarına sahip insanları daha fazla ısırır?
+
+2. Gözlem
+
+Sivrisineklerin, bazı insanların kan gruplarını diğerlerinden daha fazla tercih ettiğine dair gözlemler var. Özellikle O kan grubuna sahip kişilerin daha fazla ısırıldığı yaygın olarak biliniyor.
+
+Bilimsel Temel:
+
+Araştırmalar, O kan grubuna sahip kişilerin A, B ve AB kan gruplarına sahip kişilerden daha fazla sivrisinek çektiğini gösteriyor.
+
+Kan grubunun cilt yüzeyinden salgılanan kimyasallar ile sivrisineklerin ilgisini çektiği düşünülüyor  .
+
+
+3. Hipotez
+
+Sivrisinekler, O kan grubuna sahip kişileri, A, B ve AB kan grubuna sahip kişilere göre daha fazla ısırır.
+
+4. Deney Tasarımı
+
+Denek Grupları: Aynı çevresel koşullarda bulunan, farklı kan gruplarına (A, B, AB, O) sahip dört kişi seçilir.
+
+Deney Ortamı: Sivrisineklerin yoğun olduğu kapalı bir alanda bu kişiler aynı süre boyunca eşit şartlar altında bırakılır.
+
+Kontrol: Tüm kişiler aynı sıcaklıkta, aynı giysilerle ve benzer karbondioksit salınımına sahip olacak şekilde dengelenir.
+
+
+5. Veri Toplama
+
+Her kişi, deney süresi boyunca sivrisineklerin kaç kez ısırdığına dair sayılar kaydedilir.
+
+6. Sonuçların Analizi
+
+Her kan grubunun ısırılma sayıları karşılaştırılır. Eğer O kan grubuna sahip kişi diğerlerine göre daha fazla ısırılmışsa, hipotez desteklenir. Aksi takdirde, hipotez reddedilir.
+
+7. Sonuç
+
+Deneyin sonucunda şunlardan birine ulaşacağız:
+
+Hipotezin Doğrulanması: Eğer O kan grubuna sahip kişi diğer kan gruplarından daha fazla ısırılırsa, hipotezimiz doğrulanmış olur.
+
+Hipotezin Reddedilmesi: Eğer O kan grubuna sahip kişi diğer gruplardan daha az ya da eşit şekilde ısırılırsa, hipotezimiz reddedilir.
+
+
+Bu deney, yalnızca kan grubunun sivrisinekler üzerindeki etkisini ölçmeye odaklanacak ve sonuçlara dayalı olarak hipotezi ya kanıtlayacağız ya da reddedeceğiz.
+
+Kaynaklar:
+
+DeGennaro, M. (2015). The mysterious attraction of mosquitoes to humans. Current Biology, 25(16), R614-R616.
+
+Raji, J. I., & DeGennaro, M. (2017). Genetic analysis of mosquito detection of humans. Current Opinion in Insect Science, 20, 34-38.
+
+
