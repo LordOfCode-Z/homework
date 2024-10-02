@@ -1,0 +1,55 @@
+1. Çamaşır Suyu (Sodyum Hipoklorit)
+
+Kullanım Alanı: Ev temizliği, dezenfeksiyon.
+
+Kimyasal Özellikleri: Güçlü oksidatif özelliklere sahip, mikroorganizmaları öldürür. Sulu çözeltide sodyum hipoklorit iyonları serbest kalır ve bu iyonlar mikropları yok eder.
+
+Yan Etkileri: Aşırı solunumu, göz ve cilt tahrişine yol açabilir. Diğer temizlik ürünleriyle karıştırıldığında (örneğin, amonyak) zehirli klor gazı oluşabilir.
+
+Çevresel Etki: Su yollarına karıştığında ekosisteme zarar verebilir, su organizmaları üzerinde toksik etkiler yaratır.
+
+Gözlemlenebilir Nitelikler: Çamaşır suyunun kokusu, temizlik esnasında bıraktığı parlak yüzeyler ve mikropları öldürme etkisi.
+
+
+2. Amonyak
+
+Kullanım Alanı: Cam temizleyicileri ve bazı zemin temizleyicileri.
+
+Kimyasal Özellikleri: Sulu çözeltisinde zayıf bazik özellik gösterir. Yüksek buhar basıncına sahiptir, bu yüzden buharları solunduğunda tahriş edicidir.
+
+Yan Etkileri: Solunumu, gözlerde ve boğazda tahriş yapabilir, uzun süreli maruziyet akciğer sorunlarına yol açabilir. Çamaşır suyuyla karıştığında klor gazı gibi toksik gazlar açığa çıkar.
+
+Çevresel Etki: Yüksek miktarlarda doğaya salındığında su kaynaklarını kirletebilir, sucul hayata zarar verebilir.
+
+Gözlemlenebilir Nitelikler: Keskin ve yakıcı kokusu, cam yüzeylerde bıraktığı izsiz temizlik.
+
+
+3. Fosfatlı Deterjanlar
+
+Kullanım Alanı: Bulaşık makinelerinde ve çamaşır deterjanlarında.
+
+Kimyasal Özellikleri: Su sertliğini azaltarak yüzey aktif maddelerin etkinliğini artırır. Fosfatlar, suya karıştığında çözünürlüğü artıran iyonlar serbest bırakır.
+
+Yan Etkileri: Cilde temasında alerjik reaksiyonlar yapabilir. Aşırı maruziyette mide ve bağırsak rahatsızlıkları yaratabilir.
+
+Çevresel Etki: Fosfatlar su kaynaklarına karıştığında ötrofikasyona yol açar, bu da alg patlamalarına ve su yaşamını bozan oksijen eksikliğine sebep olur.
+
+Gözlemlenebilir Nitelikler: Köpüklenme özelliği ve suyu yumuşatma kapasitesi.
+
+
+Kimya Bilimiyle İlişkilendirme:
+
+Oksidatif Maddeler: Çamaşır suyu gibi oksitleyiciler kimya derslerinde reaktivite serileri içinde incelenir. Bu maddeler elektron alıcı olarak görev yapar, mikroorganizmaların hücre zarını parçalar.
+
+Bazlar: Amonyak, sulu çözeltisinde hidroksit iyonu (OH-) oluşturarak bazik özellik gösterir. Kimyada bazların özellikleri ve pH değeri hesaplamalarıyla ilişkilidir.
+
+Fosfatlar: Fosfatların deterjanlarda kullanımı, kimya derslerinde çözünürlük, iyon değişimi ve su sertliği ile bağlantılıdır.
+
+
+3 Kimyasalın Farklı Ortamlarda Gözlemlenmesi
+
+Mutfak: Çamaşır suyu, mutfak lavabosunda kullanıldığında yağ ve bakterileri nasıl yok ettiğini gözlemleyebilirsin.
+
+Banyo: Amonyak bazlı cam temizleyiciler banyo aynalarında iz bırakmadan temizlik sağladığında nasıl çalıştığını gözlemle.
+
+Çamaşırhane: Fosfat içeren deterjanların çamaşırlardaki kiri nasıl etkili bir şekilde temizlediğini ve sert suyun etkisini azalttığını gözlemleyebilirsin.
